@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>{{site.title}}</title>
+   <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css" type="text/css">
+</head>
+<body class=" {% if page.title %} {{ page.title | slugify }} {% else %}home{% endif %}">
+  <div class="site">
+
+    <input type="checkbox" id="nav-main-toggle" name="nav-main-toggle">
+    <header class="site-header">
+      <div class="site-branding">
+        <a class='logo-header' href="{{ site.baseurl }}/">
+        <img src="/images/logo/e9b167da-a1ca-4f48-aac3-ff84ba2b1052.png" alt="logo">
+        <!-- <span>{{site.title}}</span> -->
+      </a>
+      </div>
+      <label for="nav-main-toggle" id="nav-toggle-right" class="fas nav-toggle right">
+        <span>Menu</span>
+      </label>
+      <nav class="navigation main">
+        <a href="{{ site.baseurl }}/" class="logo-navigation">
+            <img src="/images/logo/e9b167da-a1ca-4f48-aac3-ff84ba2b1052.png" alt="logo">
+        </a>
+        <ul>
+          <li>
+            <a class="" href="{{ site.baseurl }}/platform/">Platform</a>
+          </li>
+          <li>
+            <a class="" href="{{ site.baseurl }}/about/">About as</a>
+          </li>
+          <li>
+            <a class="" href="{{ site.baseurl }}/developers/">Developers</a>
+          </li>
+          <li>
+            <a class="" href="{{ site.baseurl }}/careers/">Careers</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="site-content">
+      {{content}}
+    </main>
+    <footer class="sitefooter">
+
+    </footer>
+  </div>
+
+</body>
+</html>
