@@ -4,8 +4,6 @@
    display: none;
    justify-content: flex-start;
    align-items: flex-start;
-   background: rgba(255, 255, 255, 0.9);
-   background:red;
    height: 32rem;
    flex-direction: column;
    
@@ -18,16 +16,84 @@
       list-style: none outside;
    }
  
-   a {
+   a.slide-nav {
       display: block;
       font-size: 1.5em;
       text-decoration: none;
-      color: #444;
+      color: #F4F5F7;
+      padding: 1rem 3rem;
    }
+   
    /* a:before {
       margin-right: 1rem;
    } */
 }  
+body{
+  &.home{
+    .navigation{
+      background: $gradientHome;
+    }
+  }
+}
+.logo-navigation{
+  width: 12rem;
+  height: 3.5rem;
+  margin: 1.5rem 2.5rem;
+  
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+.site-branding {
+  width: 12rem;
+  height: 3.5rem;
+}
+
+.logo-header {
+  width: 12rem;
+  height: 3.5rem;
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+.top-menu {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  bottom: 635px;
+  left: 0;
+  right: 0;
+  justify-content: space-between;
+  padding: 1.5rem 2.5rem;
+  @include mq('tablet-middle') {
+    padding: 0.5rem 2.5rem;
+  }
+}
+.nav-top {
+  display: none;
+  @include mq('tablet-middle') {
+    display: block;
+    ul {
+      padding: 0;
+      margin: 0;
+   }
+
+    li{
+      display: inline-block;
+      list-style: none outside;
+    }
+    a{
+      display: block;
+      padding: 1em;
+      font-size: 1.3em;
+      text-decoration: none;
+      color: #F4F5F7;
+    }
+ }
+
+}
 
 #nav-main-toggle {
    display: none;
@@ -39,7 +105,11 @@
    font-size: 2rem;
    z-index: 1000;
    padding: 0 0.5rem;
+   color: #FFFFFF;
    animation: jumpin 0.3s 1 ease-in-out forwards;
+   @include mq('tablet-middle') {
+    display: none;
+ }
 
    &:before {
       content:'\f0c9';

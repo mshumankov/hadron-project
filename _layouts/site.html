@@ -11,31 +11,41 @@
 
     <input type="checkbox" id="nav-main-toggle" name="nav-main-toggle">
     <header class="site-header">
+      <div class="top-menu">
       <div class="site-branding">
         <a class='logo-header' href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/images/logo/e9b167da-a1ca-4f48-aac3-ff84ba2b1052.png" alt="logo">
+        <img src="{{ site.baseurl }}/images/logo/wib167da-a1ca-4f48-aac3-ff84ba2b1052.png" alt="logo">
         <!-- <span>{{site.title}}</span> -->
       </a>
       </div>
+      <div class="nav-top">
+        <ul>
+          <li><a  href="{{ site.baseurl }}/platform/">Platform</a></li>
+          <li><a  href="{{ site.baseurl }}/about/">About as</a></li>
+          <li><a  href="{{ site.baseurl }}/developers/">Developers</a></li>
+          <li><a  href="{{ site.baseurl }}/careers/">Careers</a></li>
+        </ul>
+      </div>
+    </div>
       <label for="nav-main-toggle" id="nav-toggle-right" class="fas nav-toggle right">
         <span>Menu</span>
       </label>
       <nav class="navigation main">
         <a href="{{ site.baseurl }}/" class="logo-navigation">
-            <img src="{{ site.baseurl }}/images/logo/e9b167da-a1ca-4f48-aac3-ff84ba2b1052.png" alt="logo">
+            <img src="{{ site.baseurl }}/images/logo/wib167da-a1ca-4f48-aac3-ff84ba2b1052.png" alt="logo">
         </a>
         <ul>
           <li>
-            <a class="" href="{{ site.baseurl }}/platform/">Platform</a>
+            <a class="slide-nav" href="{{ site.baseurl }}/platform/">Platform</a>
           </li>
           <li>
-            <a class="" href="{{ site.baseurl }}/about/">About as</a>
+            <a class="slide-nav" href="{{ site.baseurl }}/about/">About as</a>
           </li>
           <li>
-            <a class="" href="{{ site.baseurl }}/developers/">Developers</a>
+            <a class="slide-nav" href="{{ site.baseurl }}/developers/">Developers</a>
           </li>
           <li>
-            <a class="" href="{{ site.baseurl }}/careers/">Careers</a>
+            <a class="slide-nav" href="{{ site.baseurl }}/careers/">Careers</a>
           </li>
         </ul>
       </nav>

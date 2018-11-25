@@ -1,6 +1,8 @@
-@import '{{ site.baseurl }}/fontawesome/css/all.css';
+@import '/fontawesome/css/all.css';
 @import 'responsive';
 @import 'reset';
+@import 'variables';
 @import 'typography';
 @import 'animations';
 @import 'navigation';
+@import 'home-page';
