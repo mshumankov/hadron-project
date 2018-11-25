@@ -35,25 +35,13 @@
    }
 }
 
-@keyframes shake{
-    0%{
-        opacity: 0;
-        transform:translate(-2rem, 0);
-     }
-    25%{
-        opacity: 1;
-        transform:translate(2rem, 0);
-     }
-     50%{
-        opacity: 0;
-        transform:translate(-2rem, 0);
-     }
-    75%{
-        opacity: 1;
-        transform:translate(2rem, 0);
-     }
-     100%{
-        opacity: 1;
-        transform:translate(0, 0);
-     }
-  }
+@keyframes slideRight {
+	from {
+		opacity: 0;
+		transform: translateX(-30rem);
+	}
+	to {
+		opacity: 1;
+		transform: translateX(0);
+	}
+}

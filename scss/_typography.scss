@@ -2,9 +2,14 @@
    font-family: 'Ubuntu';
    src: url('/fonts/Ubuntu/Ubuntu-Regular.ttf');
 }
+@font-face {
+   font-family: 'Maven_Pro';
+   src: url('/fonts/Maven_Pro/MavenPro-Regular.ttf');
+}
 
 html {
    font: 12px/1.5 'Ubuntu', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+   color: #555555;
 }
 
 @media screen and (min-width: 500px){
@@ -13,8 +18,11 @@ html {
 @media screen and (min-width: 700px){
    html{ font-size: 16px; }
 }
-@media screen and (min-width: 1600px){
+@media screen and (min-width: 900px){
    html{ font-size: 18px; }
+}
+@media screen and (min-width: 1600px){
+   html{ font-size: 20px; }
 }
 
 body, td, th, form, textarea, input, option, select {

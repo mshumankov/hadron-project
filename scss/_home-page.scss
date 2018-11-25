@@ -1,4 +1,102 @@
-.header {
-   background: $gradientHomeRgba, url("/images/backgrounds/background3.jpg");
-   height: 40rem;
+.home-page{
+   section.header {
+      background: $gradientHomeRgba, url("/images/backgrounds/background3.jpg");
+      background-size: cover;
+      height: 32rem;
+      display: flex;
+      align-items: center;
+   }
+   article.introduction {
+      width: 100%;
+      height: 20rem;
+      padding: 2rem 4rem;
+      @include mq('tablet-middle') {
+         background: linear-gradient(to right,  rgba(48,67,82, 0.2), rgba(48,67,82, 0.2));
+         width: 70%;
+         animation: slideRight 0.5s 1 cubic-bezier(.49,.01,0,.91) both;
+         animation-delay: 0.40s;
+      }
+      @include mq('tablet-wide') {
+         width: 50%;
+       }
+      h1 {
+         font-family: 'Maven_Pro', 'Ubuntu';
+         font-size: 2.4em;
+         letter-spacing: 2px;
+         color: #FFF;
+         @include mq('phablet') {
+            font-size: 3em;
+         }
+
+         
+      }
+      p {
+         font-size: 1.4em;
+         color: #FFF;
+      }
+   }
+   section.space {
+     width: 100%;
+     height: 5rem;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     hr {
+      width: 8%;
+      border: 2px solid #F4752F;
+     }
+   }
+   section.platform, section.decentralized {
+    
+    display: flex;
+    article {
+      background: $gradientArticle;
+      padding: 3rem;
+      color:#FFF;
+      font-weight: normal;
+      @include mq('tablet-middle') {
+        width: 70%;
+      } 
+      @include mq('tablet-wide') {
+        width: 50%;
+      }
+
+    }
+   }
+   section.platform {
+    background: url("/images/backgrounds/background5.jpg");
+    background-size: cover;
+    justify-content: flex-end;
+   }
+   section.decentralized {
+    background: url("/images/backgrounds/background6.jpg");
+    background-size: cover;
+    justify-content: flex-start;
+   }
+   section.list-advantages {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+     background: rgb(230, 230, 230);
+
+     article{
+      width: 17rem;
+      height: 23rem;
+      text-align: center;
+      padding: 2rem;
+     }
+     i {
+      font-size: 5rem;
+      border-radius: 17%;
+      background: $gradientHome;
+      padding: 1rem;
+      color: #FFF;
+     }
+     h4{
+      padding-top: 1em;
+     }
+   }
 }
+
