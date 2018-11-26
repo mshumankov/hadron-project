@@ -35,6 +35,79 @@
          color: #FFF;
       }
    }
+   section.our-vision {
+     text-align: center;
+     background: #6C16E1;
+     color: #FFF;
+     padding: 3rem;
+     article {
+      padding: 3rem 3rem 4.3rem;
+     }
+     .button {
+       border: 2px solid #FFF;
+       color: #FFF;
+       &:hover {
+         color:#6C16E1;
+         background: #FFF;
+
+       }
+     }
+     h2 {
+       font-weight: normal;
+     }
+   }
+   section.build-on {
+     background-image: url(/images/backgrounds/background7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    article {
+      width: 45rem;
+      text-align: center;
+      color: #FFF;
+      padding: 3rem;
+      background: linear-gradient(to right,  rgba(83, 83, 83, 0.5), rgba(83, 83, 83, 0.5));
+   }
+   a.button {
+    background: #36C975;
+    color: #FFF;
+    &:hover {
+      border: 2px solid #36C975;
+      background: none;
+      color: #36C975;
+    }
+   }
+   }
+   section.list-advantages {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background: rgb(230, 230, 230);
+
+    article{
+     width: 17rem;
+     height: 23rem;
+     text-align: center;
+     padding: 2rem;
+    }
+    i {
+     font-size: 5rem;
+     border-radius: 50%;
+     background: $gradientHome;
+     padding: 1rem;
+     color: #FFF;
+     padding: 0.5rem;
+    }
+    h4{
+     padding-top: 1em;
+    }
+  }
    section.space {
      width: 100%;
      height: 5rem;
@@ -73,30 +146,6 @@
     background-size: cover;
     justify-content: flex-start;
    }
-   section.list-advantages {
-     display: flex;
-     flex-direction: row;
-     align-items: center;
-     justify-content: space-evenly;
-     flex-wrap: wrap;
-     background: rgb(230, 230, 230);
-
-     article{
-      width: 17rem;
-      height: 23rem;
-      text-align: center;
-      padding: 2rem;
-     }
-     i {
-      font-size: 5rem;
-      border-radius: 17%;
-      background: $gradientHome;
-      padding: 1rem;
-      color: #FFF;
-     }
-     h4{
-      padding-top: 1em;
-     }
-   }
+   
 }
 
