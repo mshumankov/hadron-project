@@ -1,6 +1,6 @@
 .home-page{
    section.header {
-      background: $gradientHomeRgba, url("/images/backgrounds/background3.jpg");
+      background: $gradientHomeRgba, url("../images/backgrounds/background3.jpg");
       background-size: cover;
       height: 32rem;
       display: flex;
@@ -57,7 +57,7 @@
      }
    }
    section.build-on {
-     background-image: url(/images/backgrounds/background7.jpg);
+     background-image: url(../images/backgrounds/background7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -137,12 +137,12 @@
     }
    }
    section.platform {
-    background: url("/images/backgrounds/background5.jpg");
+    background: url("../images/backgrounds/background5.jpg");
     background-size: cover;
     justify-content: flex-end;
    }
    section.decentralized {
-    background: url("/images/backgrounds/background6.jpg");
+    background: url("../images/backgrounds/background6.jpg");
     background-size: cover;
     justify-content: flex-start;
    }
