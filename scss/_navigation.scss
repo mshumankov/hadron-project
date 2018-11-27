@@ -39,7 +39,13 @@ body{
       background: $gradientPlatform;
     }
   }
-}
+    &.about {
+      .navigation{
+        background: $gradientAbout;
+      }
+    }
+  }
+
 .logo-navigation{
   width: 12rem;
   height: 3.5rem;

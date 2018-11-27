@@ -1,12 +1,12 @@
-.platform {
-   section.header {
+
+  section.header-platform {
       background: $gradientPlatformRgba, url("../images/backgrounds/background8.jpg");
       background-size: cover;
       height: 32rem;
       display: flex;
       align-items: center;
-   }
-   article.introduction {
+  }
+  article.platform-intro {
       width: 100%;
       height: 20rem;
       padding: 2rem 4rem;
@@ -34,10 +34,10 @@
          font-size: 1.4em;
          color: #FFF;
       }
-   }
+  }
    
-   }
-   section.platform-info {
+  
+  section.platform-info {
       display: flex;
       flex-direction: column;
       @include mq('tablet-wide') {
@@ -64,7 +64,7 @@
          }
       }
     }
-      section.fast {
+  section.fast {
         display: flex;
         flex-direction: column;
         @include mq('tablet-wide') {
@@ -84,7 +84,7 @@
           order: 1;
            height: 32rem;
            width:100%;
-           background-image: url(../images/img/img2.jpg);
+           background-image: url(../images/img/background9.jpg);
            background-size: cover;
            background-repeat: no-repeat;
            background-position: center;
@@ -93,4 +93,93 @@
               order: 2;
            }
         }
-}
+        
+    }
+    section.secure {
+          display: flex;
+          flex-direction: column;
+          @include mq('tablet-wide') {
+            flex-direction: row;
+         }
+          
+          article {
+             width: 100%;
+             order: 2;
+             padding: 4rem;
+             @include mq('tablet-wide') {
+                width: 50%;
+             }
+          }
+          div {
+             height: 32rem;
+             width:100%;
+             background-image: url(../images/backgrounds/background10.jpg);
+             background-size: cover;
+             background-repeat: no-repeat;
+             background-position: center;
+             @include mq('tablet-wide') {
+                width: 50%;
+             }
+        }
+      }
+        section.how-works {
+          display: flex;
+          flex-direction: column;
+          @include mq('tablet-wide') {
+            flex-direction: row;
+         }
+          
+          article {
+             width: 100%;
+             order: 2;
+             padding: 4rem;
+             @include mq('tablet-wide') {
+                width: 50%;
+                order: 1;
+             }
+          }
+          div {
+            order: 1;
+             height: 32rem;
+             width:100%;
+             background-image: url(../images/backgrounds/background11.jpg);
+             background-size: cover;
+             background-repeat: no-repeat;
+             background-position: center;
+             @include mq('tablet-wide') {
+                width: 50%;
+                order: 2;
+             }
+          }
+        }
+        section.cryptocurrency {
+          display: flex;
+          flex-direction: column;
+          @include mq('tablet-wide') {
+            flex-direction: row;
+         }
+          
+          article {
+             width: 100%;
+             order: 2;
+             padding: 4rem;
+             @include mq('tablet-wide') {
+                width: 50%;
+             }
+          }
+          div {
+             height: 32rem;
+             width:100%;
+             background-image: url(../images/backgrounds/background12.jpg);
+             background-size: cover;
+             background-repeat: no-repeat;
+             background-position: center;
+             @include mq('tablet-wide') {
+                width: 50%;
+             }
+        }
+      }
+          
+      
+        
+      
