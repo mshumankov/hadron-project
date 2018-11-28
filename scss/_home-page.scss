@@ -1,8 +1,9 @@
-.home-page{
+
    section.header {
       background: $gradientHomeRgba, url("../images/backgrounds/background3.jpg");
       background-size: cover;
-      height: 32rem;
+      background-position: center;
+      height: 36rem;
       display: flex;
       align-items: center;
    }
@@ -104,7 +105,7 @@
       display: block;
     font-size: 3rem;
     border-radius: 50%;
-    background: linear-gradient(to left,#fe8c00,#f83600);
+    background: $gradientHome;
     color: #fff;
     padding: 1rem;
     width: 5.5rem;
@@ -123,7 +124,7 @@
       border: 2px solid #F4752F;
      }
    }
-   section.platform, section.decentralized {
+   section.platform-short, section.decentralized {
     
     display: flex;
     article {
@@ -140,7 +141,7 @@
 
     }
    }
-   section.platform {
+   section.platform-short {
     background: url("../images/backgrounds/background5.jpg");
     background-size: cover;
     justify-content: flex-end;
@@ -151,5 +152,5 @@
     justify-content: flex-start;
    }
    
-}
+
 

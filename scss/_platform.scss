@@ -2,7 +2,8 @@
   section.header-platform {
       background: $gradientPlatformRgba, url("../images/backgrounds/background8.jpg");
       background-size: cover;
-      height: 32rem;
+      height: 36rem;
+      background-position: center;
       display: flex;
       align-items: center;
   }
