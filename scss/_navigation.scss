@@ -1,3 +1,6 @@
+.site-header {
+  position: relative;
+}
 .navigation{
    position: absolute;
    top:0; left:0; right:0; bottom:0;
@@ -77,16 +80,18 @@ body{
 .top-menu {
   display: flex;
   position: absolute;
-  top: 0px;
-  bottom: 635px;
+  top: 1.72rem;
+  bottom: 0;
   left: 0;
   right: 0;
   justify-content: space-between;
+  align-items: center;
   padding: 1.5rem 2.5rem;
   max-width: 1600px;
   margin: 0 auto;
   @include mq('tablet-middle') {
-    padding: 0.5rem 2.5rem;
+    padding: 1rem;
+    top: 1.5rem;
   }
 }
 .nav-top {

@@ -37,9 +37,8 @@
       }
   }
    
-  
-  section.platform-info {
-      display: flex;
+  .left-text {
+    display: flex;
       flex-direction: column;
       @include mq('tablet-wide') {
         flex-direction: row;
@@ -56,7 +55,6 @@
       div {
          height: 32rem;
          width:100%;
-         background-image: url(../images/img/img2.jpg);
          background-size: cover;
          background-repeat: no-repeat;
          background-position: center;
@@ -65,8 +63,8 @@
          }
       }
     }
-  section.fast {
-        display: flex;
+    .right-text {
+      display: flex;
         flex-direction: column;
         @include mq('tablet-wide') {
           flex-direction: row;
@@ -85,7 +83,6 @@
           order: 1;
            height: 32rem;
            width:100%;
-           background-image: url(../images/img/background9.jpg);
            background-size: cover;
            background-repeat: no-repeat;
            background-position: center;
@@ -94,93 +91,33 @@
               order: 2;
            }
         }
+    }
+  section.platform-info {
+      div {
+         
+         background-image: url(../images/img/img2.jpg);
+      }
+    }
+  section.fast {
         
+        div {
+           background-image: url(../images/img/background9.jpg);
+        } 
     }
     section.secure {
-          display: flex;
-          flex-direction: column;
-          @include mq('tablet-wide') {
-            flex-direction: row;
-         }
-          
-          article {
-             width: 100%;
-             order: 2;
-             padding: 4rem;
-             @include mq('tablet-wide') {
-                width: 50%;
-             }
-          }
           div {
-             height: 32rem;
-             width:100%;
              background-image: url(../images/backgrounds/background10.jpg);
-             background-size: cover;
-             background-repeat: no-repeat;
-             background-position: center;
-             @include mq('tablet-wide') {
-                width: 50%;
-             }
-        }
-      }
-        section.how-works {
-          display: flex;
-          flex-direction: column;
-          @include mq('tablet-wide') {
-            flex-direction: row;
-         }
-          
-          article {
-             width: 100%;
-             order: 2;
-             padding: 4rem;
-             @include mq('tablet-wide') {
-                width: 50%;
-                order: 1;
              }
           }
+        section.how-works {
           div {
-            order: 1;
-             height: 32rem;
-             width:100%;
              background-image: url(../images/backgrounds/background11.jpg);
-             background-size: cover;
-             background-repeat: no-repeat;
-             background-position: center;
-             @include mq('tablet-wide') {
-                width: 50%;
-                order: 2;
-             }
           }
         }
         section.cryptocurrency {
-          display: flex;
-          flex-direction: column;
-          @include mq('tablet-wide') {
-            flex-direction: row;
-         }
-          
-          article {
-             width: 100%;
-             order: 2;
-             padding: 4rem;
-             @include mq('tablet-wide') {
-                width: 50%;
-             }
-          }
           div {
-             height: 32rem;
-             width:100%;
              background-image: url(../images/backgrounds/background12.jpg);
-             background-size: cover;
-             background-repeat: no-repeat;
-             background-position: center;
-             @include mq('tablet-wide') {
-                width: 50%;
-             }
         }
       }
-          
-      
         
       

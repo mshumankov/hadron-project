@@ -89,3 +89,85 @@ section.build-developers {
    background: linear-gradient(to right,  rgba(73, 73, 73, 0.7), rgba(73, 73, 73, 0.7));
 }
 }
+section.form-developers {
+  display: flex;
+  align-items: center;
+  background: #43CEA2;
+  
+  flex-direction: column;
+  @include mq('tablet-wide') {
+    flex-direction: row;
+    height: 100vh;
+  }
+}
+article.form-info {
+  color: #FFF;
+  width: 100%;
+  padding: 4rem;
+  @include mq('tablet-wide') {
+    width: 40%;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+}
+div.form-wrapper {
+  
+  @include mq('tablet-wide') {
+    width: 60%;
+  }
+}
+div.form-conteiner {
+  
+  margin: 3rem;
+  background: #FFF; 
+  border-radius: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @include mq('tablet-wide') {
+    height: 70vh;
+  }
+  form {
+    padding: 2rem;
+    input[type='email'], input[type='password'] {
+      width: 100%;
+      display: block;
+      border: none;
+      border-bottom: 3px solid #CCC;
+      padding: 0.4em 0;
+      background: transparent;
+      outline: none;
+      &::placeholder {
+        color: rgb(163, 163, 163);
+      }
+      
+   }
+   input[type='email']:focus , input[type='password']:focus {
+    border-bottom: 3px solid #43CEA2;
+  }
+
+   p {
+     margin-top: 1.5rem;
+     font-size: 0.9rem;
+   }
+   input[type='submit'] {
+    text-transform: uppercase;
+    padding: 0.4rem 1.3rem;
+    border-radius: 30px;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    font-size: 0.8rem;
+    border: 3px solid #43CEA2;
+    background: #43CEA2;
+    color: #FFF;
+    font-weight: bold;
+    &:hover {
+      border: 3px solid #43CEA2;
+      background: #FFF;
+      color: #43CEA2;
+    }
+   }
+  }
+}
