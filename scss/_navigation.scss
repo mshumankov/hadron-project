@@ -52,6 +52,11 @@ body{
         background: $gradientDevelopers;
       }
     }
+    &.careers {
+      .navigation{
+        background: $gradientCareers;
+      }
+    }
   }
 
 .logo-navigation{
