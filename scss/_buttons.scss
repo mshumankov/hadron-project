@@ -6,4 +6,6 @@ a.button {
    outline: none;
    text-decoration: none;
    font-size: 0.8rem;
+   transition: border 0.2s ease-in, color 0.2s ease-in, background 0.2s ease-in;
+   border: 2px solid transparent;
 }

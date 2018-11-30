@@ -60,4 +60,13 @@ layout: site
          <section class="space">
             <hr>
          </section>
+         <section class="news-home">
+                  {% for post in site.posts %}
+                      <a class="wrapper" href="{{ site.baseurl }}{{ post.url }}">
+                          <figure><img src=" {{ site.baseurl }}{{ post.image }} " alt=""></figure>
+                          <h4>{{ post.heading }} for testing the theme</h4>
+                          <span>{{ post.date | date: "%-d %B %Y" }}</span>
+                       </a>
+                  {% endfor %}
+         </section>
    

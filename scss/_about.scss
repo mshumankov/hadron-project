@@ -84,12 +84,31 @@ section.team {
   grid-auto-rows: 21rem;
   grid-gap: 1.5rem;
   grid-auto-flow: dense;
-  div.leadership {
+  div.leadership, div.join-team {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 0 4rem;
     grid-column: 1 / -1;
   }
+  a.button {
+    background: #36C975;
+    color: #FFF;
+    margin-top: 2rem;
+    &:hover {
+      border: 2px solid #36C975;
+      background: none;
+      color: #36C975;
+    }
+    &:active {
+      border: 2px solid #36C975;
+      background: none;
+      color: #36C975;
+      outline: none;
+    }
+   }
   div.team-member{
     /* background: red; */
     display: flex;

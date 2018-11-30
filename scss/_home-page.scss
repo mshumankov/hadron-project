@@ -50,8 +50,11 @@
        &:hover {
          color:#6C16E1;
          background: #FFF;
-
        }
+       &:active {
+        color:#6C16E1;
+        background: #FFF;
+      }
      }
      h2 {
        font-weight: normal;
@@ -78,6 +81,11 @@
     background: #36C975;
     color: #FFF;
     &:hover {
+      border: 2px solid #36C975;
+      background: none;
+      color: #36C975;
+    }
+    &:active {
       border: 2px solid #36C975;
       background: none;
       color: #36C975;
@@ -151,6 +159,41 @@
     background-size: cover;
     justify-content: flex-start;
    }
+   section.news-home {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    grid-auto-rows: auto;
+    grid-gap: 1.5rem;
+    padding: 1.5rem;
+    figure {
+      width: 100%;
+    img {
+      width: 100%;
+    }
    
-
-
+    }
+    a {
+      width: 100%;
+      display: block;
+      text-decoration: none;
+      color: rgb(51, 51, 51);
+      transition: box-shadow 0.2s ease-in, color 0.2s ease-in;
+      box-shadow: 0 0 1.5rem 0.1rem rgba(0, 0, 0, 0.1);
+      &:hover {
+        box-shadow: 0 0 1.5rem 0.4rem rgba(0, 0, 0, 0.4);
+      }
+      /* &:nth-child(1) {
+        @include mq('tablet') {
+          grid-column: 1 / span 2;
+          grid-row: 1 / span 2;
+       } 
+      } */
+  }
+  h4 {
+    padding: 1rem;
+  }
+  span{
+    display: block;
+    padding: 0 1rem 1rem 1rem;
+  }
+}

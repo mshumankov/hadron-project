@@ -95,28 +95,28 @@
   section.platform-info {
       div {
          
-         background-image: url(../images/img/img2.jpg);
+         background-image: $gradientHomeRgba ,url(../images/img/img2.jpg);
       }
     }
   section.fast {
         
         div {
-           background-image: url(../images/img/background9.jpg);
+           background-image: $gradientDevelopersRgba ,url(../images/img/background9.jpg);
         } 
     }
     section.secure {
           div {
-             background-image: url(../images/backgrounds/background10.jpg);
+             background-image:  $gradientPlatformRgba,url(../images/backgrounds/background10.jpg);
              }
           }
         section.how-works {
           div {
-             background-image: url(../images/backgrounds/background11.jpg);
+             background-image: $gradientCareersRgba ,url(../images/backgrounds/background11.jpg);
           }
         }
         section.cryptocurrency {
           div {
-             background-image: url(../images/backgrounds/background12.jpg);
+             background-image: $gradientAboutRgba ,url(../images/backgrounds/background12.jpg);
         }
       }
         
