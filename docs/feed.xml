@@ -1,185 +1,211 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/hadron-project/feed.xml" rel="self" type="application/atom+xml" /><link href="/hadron-project/" rel="alternate" type="text/html" /><updated>2018-12-01T18:54:40+02:00</updated><id>/hadron-project/feed.xml</id><title type="html">Hadron</title><subtitle>The future of the Internet</subtitle><entry><title type="html">post</title><link href="/hadron-project/2018/11/18/Bitmain.html" rel="alternate" type="text/html" title="post" /><published>2018-11-18T11:47:39+02:00</published><updated>2018-11-18T11:47:39+02:00</updated><id>/hadron-project/2018/11/18/Bitmain</id><content type="html" xml:base="/hadron-project/2018/11/18/Bitmain.html">&lt;section class=&quot;news&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/hadron-project/feed.xml" rel="self" type="application/atom+xml" /><link href="/hadron-project/" rel="alternate" type="text/html" /><updated>2018-12-01T21:00:42+02:00</updated><id>/hadron-project/feed.xml</id><title type="html">Hadron</title><subtitle>The future of the Internet</subtitle><entry><title type="html">post</title><link href="/hadron-project/2018/11/18/Bitmain.html" rel="alternate" type="text/html" title="post" /><published>2018-11-18T11:47:39+02:00</published><updated>2018-11-18T11:47:39+02:00</updated><id>/hadron-project/2018/11/18/Bitmain</id><content type="html" xml:base="/hadron-project/2018/11/18/Bitmain.html">&lt;section class=&quot;news&quot;&gt;
     &lt;section class=&quot;header-news&quot;&gt;
-       &lt;article class=&quot;news-intro&quot;&gt;
-          &lt;h2&gt;Hadron News&lt;/h2&gt;
-          &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
-       &lt;/article&gt;
+        &lt;article class=&quot;news-intro&quot;&gt;
+            &lt;h2&gt;Hadron News&lt;/h2&gt;
+            &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
+        &lt;/article&gt;
     &lt;/section&gt;
+&lt;/section&gt;
     &lt;section class=&quot;news-content&quot;&gt;
         &lt;img src=&quot;/hadron-project/images/news/etcrbcb-860x430.jpg&quot; alt=&quot;news&quot;&gt;
         &lt;h2&gt;Mining Giant Bitmain Launches Crypto Index for Investors&lt;/h2&gt;
-        &lt;p&gt;The U.S. Securities and Exchange Commission (SEC) has settled charges with professional boxer Floyd Mayweather Jr. and music producer Khaled Khaled – better known as DJ Khaled – for not disclosing that they were paid to promote initial coin offerings (ICOs).
+        &lt;p&gt;The U.S. Securities and Exchange Commission (SEC) has settled charges with professional boxer Floyd Mayweather Jr.
+            and music producer Khaled Khaled – better known as DJ Khaled – for not disclosing that they were paid to promote
+            initial coin offerings (ICOs). Announced Thursday, the regulator said that Mayweather received $100,000 from
+            Centra Tech, as well as another $200,000 from Stox and Hubii Network. Khaled was paid $50,000 to promote Centra
+            Tech, according to the agency. The co-founders of Centra Tech were indicted by a grand jury earlier this year
+            on charges of fraud and conspiracy.
+            In a statement Thursday, SEC Enforcement Division co-director Stephanie Avakian said that “with no disclosure
+                about the payments, Mayweather and Khaled’s ICO promotions may have appeared to be unbiased, rather than
+                paid endorsements.” Neither celebrity admitted to or denied the charges in their settlements. Mayweather
+                will pay $300,000 in disgorgement, $300,000 in penalties and $14,775 in prejudgment interest. Khaled will
+                pay $50,000 in disgorgement, $100,000 in penalties and $2,725 in prejudgment interest.&lt;/p&gt;
 
-        Announced Thursday, the regulator said that Mayweather received $100,000 from Centra Tech, as well as another $200,000 from Stox and Hubii Network.
-            
-        Khaled was paid $50,000 to promote Centra Tech, according to the agency.
-            
-        The co-founders of Centra Tech were indicted by a grand jury earlier this year on charges of fraud and conspiracy.
-        &lt;p&gt;In a statement Thursday, SEC Enforcement Division co-director Stephanie Avakian said that “with no disclosure about the payments, Mayweather and Khaled’s ICO promotions may have appeared to be unbiased, rather than paid endorsements.”
+            &lt;p&gt;Further, the two are banned from promoting “any securities, digital or otherwise,” for the next few years; Mayweather
+                has agreed to a three-year ban, while Khaled’s ban will last for a period of two years. The SEC added that
+                Mayweather will continue to cooperate with its investigation, which is ongoing.&lt;/p&gt;
+            &lt;p&gt;The move comes more than a year after the agency first warned celebrities that it may be against the law to promote
+                investment products if they “do not disclose the nature, source and amount of compensation paid … in exchange
+                for the endorsement.”&lt;/p&gt;
 
-        Neither celebrity admitted to or denied the charges in their settlements. Mayweather will pay $300,000 in disgorgement, $300,000 in penalties and $14,775 in prejudgment interest. Khaled will pay $50,000 in disgorgement, $100,000 in penalties and $2,725 in prejudgment interest.&lt;/p&gt;
-            
-       &lt;p&gt;Further, the two are banned from promoting “any securities, digital or otherwise,” for the next few years; Mayweather has agreed to a three-year ban, while Khaled’s ban will last for a period of two years.
 
-      The SEC added that Mayweather will continue to cooperate with its investigation, which is ongoing.&lt;/p&gt;   
-      &lt;p&gt;The move comes more than a year after the agency first warned celebrities that it may be against the law to promote investment products if they “do not disclose the nature, source and amount of compensation paid … in exchange for the endorsement.”&lt;/p&gt;
-      
-        
-        &lt;p&gt;SEC emblem image via Shutterstock&lt;/p&gt;
-    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. Mining Giant Bitmain Launches Crypto Index for Investors The U.S. Securities and Exchange Commission (SEC) has settled charges with professional boxer Floyd Mayweather Jr. and music producer Khaled Khaled – better known as DJ Khaled – for not disclosing that they were paid to promote initial coin offerings (ICOs).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/etcrbcb-860x430.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/17/Sirin-Labs.html" rel="alternate" type="text/html" title="post" /><published>2018-11-17T11:47:39+02:00</published><updated>2018-11-17T11:47:39+02:00</updated><id>/hadron-project/2018/11/17/Sirin-Labs</id><content type="html" xml:base="/hadron-project/2018/11/17/Sirin-Labs.html">&lt;section class=&quot;news&quot;&gt;
+            &lt;p&gt;SEC emblem image via Shutterstock&lt;/p&gt;
+    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. Mining Giant Bitmain Launches Crypto Index for Investors The U.S. Securities and Exchange Commission (SEC) has settled charges with professional boxer Floyd Mayweather Jr. and music producer Khaled Khaled – better known as DJ Khaled – for not disclosing that they were paid to promote initial coin offerings (ICOs). Announced Thursday, the regulator said that Mayweather received $100,000 from Centra Tech, as well as another $200,000 from Stox and Hubii Network. Khaled was paid $50,000 to promote Centra Tech, according to the agency. The co-founders of Centra Tech were indicted by a grand jury earlier this year on charges of fraud and conspiracy. In a statement Thursday, SEC Enforcement Division co-director Stephanie Avakian said that “with no disclosure about the payments, Mayweather and Khaled’s ICO promotions may have appeared to be unbiased, rather than paid endorsements.” Neither celebrity admitted to or denied the charges in their settlements. Mayweather will pay $300,000 in disgorgement, $300,000 in penalties and $14,775 in prejudgment interest. Khaled will pay $50,000 in disgorgement, $100,000 in penalties and $2,725 in prejudgment interest.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/etcrbcb-860x430.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/17/Sirin-Labs.html" rel="alternate" type="text/html" title="post" /><published>2018-11-17T11:47:39+02:00</published><updated>2018-11-17T11:47:39+02:00</updated><id>/hadron-project/2018/11/17/Sirin-Labs</id><content type="html" xml:base="/hadron-project/2018/11/17/Sirin-Labs.html">&lt;section class=&quot;news&quot;&gt;
     &lt;section class=&quot;header-news&quot;&gt;
-       &lt;article class=&quot;news-intro&quot;&gt;
-          &lt;h2&gt;Hadron News&lt;/h2&gt;
-          &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
-       &lt;/article&gt;
+        &lt;article class=&quot;news-intro&quot;&gt;
+            &lt;h2&gt;Hadron News&lt;/h2&gt;
+            &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
+        &lt;/article&gt;
     &lt;/section&gt;
+&lt;/section&gt;
     &lt;section class=&quot;news-content&quot;&gt;
         &lt;img src=&quot;/hadron-project/images/news/Screen-Shot-2018-11-29-at-2.17.jpg&quot; alt=&quot;news&quot;&gt;
         &lt;h2&gt;Sirin Labs’ $999 Blockchain Phone Will Start Shipping in December&lt;/h2&gt;
-        &lt;p&gt;Researchers at Israel-based cybersecurity firm Check Point Software Technologies say that a relatively new form of crypto mining malware, dubbed KingMiner, is “evolving.”
-
-        In a research note on Thursday, the firm’s Ido Solomon and Adi Ikan said that KingMiner, a monero mining malware that first appeared about six months ago, is changing through time to avoid detection – even replacing older versions of itself that it encounters on host machines.
-            
+        &lt;p&gt;Researchers at Israel-based cybersecurity firm Check Point Software Technologies say that a relatively new form of
+            crypto mining malware, dubbed KingMiner, is “evolving.” In a research note on Thursday, the firm’s Ido Solomon
+            and Adi Ikan said that KingMiner, a monero mining malware that first appeared about six months ago, is changing
+            through time to avoid detection – even replacing older versions of itself that it encounters on host machines.
             The researchers said:
-        &lt;p&gt;
-         “The malware continuously adds new features and bypass methods to avoid emulation. Mainly, it manipulates the needed files and creates a dependency which is critical during emulation.”.&lt;/p&gt;
             
-         &lt;p&gt;As a result of these tactics, the malware is also being detected by security systems at “significantly” reduced rates.
+                “The malware continuously adds new features and bypass methods to avoid emulation. Mainly, it manipulates the needed files
+                and creates a dependency which is critical during emulation.”.&lt;/p&gt;
 
-        The malware usually targets Microsoft servers (predominantly IIS\SQL) and while configured to harness 75 percent of the victim machine’s CPU capacity for mining, it actually uses up the full 100 percent.
-            
-        To preserve its secrecy, KingMiner is also seen to use a private mining pool to avoid detection, which also has its API switched off.&lt;/p&gt;   
-        &lt;p&gt;“We have not yet determined which domains are used, as this is also private. However, we can see that the attack is currently widely spread, from Mexico to India, Norway and Israel,” the researchers said.
+            &lt;p&gt;As a result of these tactics, the malware is also being detected by security systems at “significantly” reduced
+                rates. The malware usually targets Microsoft servers (predominantly IIS\SQL) and while configured to harness
+                75 percent of the victim machine’s CPU capacity for mining, it actually uses up the full 100 percent. To
+                preserve its secrecy, KingMiner is also seen to use a private mining pool to avoid detection, which also
+                has its API switched off.&lt;/p&gt;
+            &lt;p&gt;“We have not yet determined which domains are used, as this is also private. However, we can see that the attack
+                is currently widely spread, from Mexico to India, Norway and Israel,” the researchers said. The continual
+                changes allow the malware to be more successful, they continued, predicting that such evasion techniques
+                will continue to evolve during 2019 and become more common across crypto-mining malware variants.&lt;/p&gt;
 
-        The continual changes allow the malware to be more successful, they continued, predicting that such evasion techniques will continue to evolve during 2019 and become more common across crypto-mining malware variants.&lt;/p&gt;
-        
-        
-        
-        &lt;p&gt;Virus illustration via Shutterstock &lt;/p&gt;
-        
-        
-    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. Sirin Labs’ $999 Blockchain Phone Will Start Shipping in December Researchers at Israel-based cybersecurity firm Check Point Software Technologies say that a relatively new form of crypto mining malware, dubbed KingMiner, is “evolving.”</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/Screen-Shot-2018-11-29-at-2.17.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/15/Fidelity.html" rel="alternate" type="text/html" title="post" /><published>2018-11-15T11:47:39+02:00</published><updated>2018-11-15T11:47:39+02:00</updated><id>/hadron-project/2018/11/15/Fidelity</id><content type="html" xml:base="/hadron-project/2018/11/15/Fidelity.html">&lt;section class=&quot;news&quot;&gt;
+
+
+            &lt;p&gt;Virus illustration via Shutterstock &lt;/p&gt;
+
+
+    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. Sirin Labs’ $999 Blockchain Phone Will Start Shipping in December Researchers at Israel-based cybersecurity firm Check Point Software Technologies say that a relatively new form of crypto mining malware, dubbed KingMiner, is “evolving.” In a research note on Thursday, the firm’s Ido Solomon and Adi Ikan said that KingMiner, a monero mining malware that first appeared about six months ago, is changing through time to avoid detection – even replacing older versions of itself that it encounters on host machines. The researchers said: “The malware continuously adds new features and bypass methods to avoid emulation. Mainly, it manipulates the needed files and creates a dependency which is critical during emulation.”.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/Screen-Shot-2018-11-29-at-2.17.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/15/Fidelity.html" rel="alternate" type="text/html" title="post" /><published>2018-11-15T11:47:39+02:00</published><updated>2018-11-15T11:47:39+02:00</updated><id>/hadron-project/2018/11/15/Fidelity</id><content type="html" xml:base="/hadron-project/2018/11/15/Fidelity.html">&lt;section class=&quot;news&quot;&gt;
     &lt;section class=&quot;header-news&quot;&gt;
-       &lt;article class=&quot;news-intro&quot;&gt;
-          &lt;h2&gt;Hadron News&lt;/h2&gt;
-          &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
-       &lt;/article&gt;
+        &lt;article class=&quot;news-intro&quot;&gt;
+            &lt;h2&gt;Hadron News&lt;/h2&gt;
+            &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
+        &lt;/article&gt;
     &lt;/section&gt;
+&lt;/section&gt;
     &lt;section class=&quot;news-content&quot;&gt;
         &lt;img src=&quot;/hadron-project/images/news/fidelity.jpg&quot; alt=&quot;news&quot;&gt;
         &lt;h2&gt;Fidelity Looking to Expand Digital Asset Trading Beyond Bitcoin and Ether&lt;/h2&gt;
-        &lt;p&gt;Fidelity Investments is looking to expand its institutional crypto asset platform to include trading services for the top five to seven cryptocurrencies by market capitalization.
-        &lt;p&gt;
-        Revealed today at the Block FS conference in New York, the news came in response to a question from CoinDesk posed to Tom Jessop, head of Fidelity Digital Assets, on what other cryptocurrencies may be added to the platform, to be launched next year.&lt;/p&gt;
+        &lt;p&gt;Fidelity Investments is looking to expand its institutional crypto asset platform to include trading services for
+            the top five to seven cryptocurrencies by market capitalization.
             
-         &lt;p&gt;Last month, the buy-side giant announced it would be launching a separate company, Fidelity Digital Asset Services, at the time stating that it would be offering custody and trading services for bitcoin and ether, the cryptocurrency that powers the ethereum blockchain.
-            
-        “I think there is demand for the next four or five in rank of market cap order. So we will be looking at that,” he said.&lt;/p&gt;   
-        &lt;p&gt;essop explained that Fidelity is taking a customer-driven approach for now and that its 13,000-plus institutional clients are interested in bitcoin and ether because they make up a large part of the current market cap.
-            
-        “I think when it comes to security tokens or tokens that are likely to be deemed securities, we are waiting for that space to develop,” he explained, going on to say:
-                
-        “We have had some interest but we don’t think it’s a groundswell of interest, so our focus is really on the top, call it five-seven, before we start building capabilities for the tail. But I think it will come.”&lt;/p&gt;
-        
-        &lt;p&gt;Fidelity has spent four to five years of R&amp;D in the space and has a long view of the crypto asset class and the underlying technology’s potential, which Jessop compared to the exponential sweep of the internet.
-            
-        He acknowledged that digital assets have not had a great run this year, pointing out that, a year prior, the run-up in prices saw Fidelity’s charitable crypto donations vehicle garner some $70 million in contributions.
-                
-        “It was a great story and a great source of donations,” Jessop added.&lt;/p&gt;
-        
-        &lt;p&gt;Fidelity image via Shutterstock&lt;/p&gt;
-        
-        
-    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. Fidelity Looking to Expand Digital Asset Trading Beyond Bitcoin and Ether Fidelity Investments is looking to expand its institutional crypto asset platform to include trading services for the top five to seven cryptocurrencies by market capitalization. Revealed today at the Block FS conference in New York, the news came in response to a question from CoinDesk posed to Tom Jessop, head of Fidelity Digital Assets, on what other cryptocurrencies may be added to the platform, to be launched next year. Last month, the buy-side giant announced it would be launching a separate company, Fidelity Digital Asset Services, at the time stating that it would be offering custody and trading services for bitcoin and ether, the cryptocurrency that powers the ethereum blockchain. “I think there is demand for the next four or five in rank of market cap order. So we will be looking at that,” he said. essop explained that Fidelity is taking a customer-driven approach for now and that its 13,000-plus institutional clients are interested in bitcoin and ether because they make up a large part of the current market cap. “I think when it comes to security tokens or tokens that are likely to be deemed securities, we are waiting for that space to develop,” he explained, going on to say: “We have had some interest but we don’t think it’s a groundswell of interest, so our focus is really on the top, call it five-seven, before we start building capabilities for the tail. But I think it will come.” Fidelity has spent four to five years of R&amp;D in the space and has a long view of the crypto asset class and the underlying technology’s potential, which Jessop compared to the exponential sweep of the internet. He acknowledged that digital assets have not had a great run this year, pointing out that, a year prior, the run-up in prices saw Fidelity’s charitable crypto donations vehicle garner some $70 million in contributions. “It was a great story and a great source of donations,” Jessop added. Fidelity image via Shutterstock</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/fidelity.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/14/Mining.html" rel="alternate" type="text/html" title="post" /><published>2018-11-14T11:47:39+02:00</published><updated>2018-11-14T11:47:39+02:00</updated><id>/hadron-project/2018/11/14/Mining</id><content type="html" xml:base="/hadron-project/2018/11/14/Mining.html">&lt;section class=&quot;news&quot;&gt;
+                Revealed today at the Block FS conference in New York, the news came in response to a question from CoinDesk posed to Tom
+                Jessop, head of Fidelity Digital Assets, on what other cryptocurrencies may be added to the platform, to
+                be launched next year.&lt;/p&gt;
+
+            &lt;p&gt;Last month, the buy-side giant announced it would be launching a separate company, Fidelity Digital Asset Services,
+                at the time stating that it would be offering custody and trading services for bitcoin and ether, the cryptocurrency
+                that powers the ethereum blockchain. “I think there is demand for the next four or five in rank of market
+                cap order. So we will be looking at that,” he said.&lt;/p&gt;
+            &lt;p&gt;essop explained that Fidelity is taking a customer-driven approach for now and that its 13,000-plus institutional
+                clients are interested in bitcoin and ether because they make up a large part of the current market cap.
+                “I think when it comes to security tokens or tokens that are likely to be deemed securities, we are waiting
+                for that space to develop,” he explained, going on to say: “We have had some interest but we don’t think
+                it’s a groundswell of interest, so our focus is really on the top, call it five-seven, before we start building
+                capabilities for the tail. But I think it will come.”&lt;/p&gt;
+
+            &lt;p&gt;Fidelity has spent four to five years of R&amp;D in the space and has a long view of the crypto asset class and the
+                underlying technology’s potential, which Jessop compared to the exponential sweep of the internet. He acknowledged
+                that digital assets have not had a great run this year, pointing out that, a year prior, the run-up in prices
+                saw Fidelity’s charitable crypto donations vehicle garner some $70 million in contributions. “It was a great
+                story and a great source of donations,” Jessop added.&lt;/p&gt;
+
+            &lt;p&gt;Fidelity image via Shutterstock&lt;/p&gt;
+
+
+    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. Fidelity Looking to Expand Digital Asset Trading Beyond Bitcoin and Ether Fidelity Investments is looking to expand its institutional crypto asset platform to include trading services for the top five to seven cryptocurrencies by market capitalization. Revealed today at the Block FS conference in New York, the news came in response to a question from CoinDesk posed to Tom Jessop, head of Fidelity Digital Assets, on what other cryptocurrencies may be added to the platform, to be launched next year.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/fidelity.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/14/Mining.html" rel="alternate" type="text/html" title="post" /><published>2018-11-14T11:47:39+02:00</published><updated>2018-11-14T11:47:39+02:00</updated><id>/hadron-project/2018/11/14/Mining</id><content type="html" xml:base="/hadron-project/2018/11/14/Mining.html">&lt;section class=&quot;news&quot;&gt;
     &lt;section class=&quot;header-news&quot;&gt;
-       &lt;article class=&quot;news-intro&quot;&gt;
-          &lt;h2&gt;Hadron News&lt;/h2&gt;
-          &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
-       &lt;/article&gt;
+        &lt;article class=&quot;news-intro&quot;&gt;
+            &lt;h2&gt;Hadron News&lt;/h2&gt;
+            &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
+        &lt;/article&gt;
     &lt;/section&gt;
+&lt;/section&gt;
     &lt;section class=&quot;news-content&quot;&gt;
         &lt;img src=&quot;/hadron-project/images/news/miners.jpg&quot; alt=&quot;news&quot;&gt;
         &lt;h2&gt;Bitcoin Mining Giant Holds Flash Sale to Celebrate Price ‘Bottom’&lt;/h2&gt;
-        &lt;p&gt;Fidelity Investments is looking to expand its institutional crypto asset platform to include trading services for the top five to seven cryptocurrencies by market capitalization.
-        &lt;p&gt;
-        Revealed today at the Block FS conference in New York, the news came in response to a question from CoinDesk posed to Tom Jessop, head of Fidelity Digital Assets, on what other cryptocurrencies may be added to the platform, to be launched next year.&lt;/p&gt;
+        &lt;p&gt;Fidelity Investments is looking to expand its institutional crypto asset platform to include trading services for
+            the top five to seven cryptocurrencies by market capitalization.
             
-         &lt;p&gt;Last month, the buy-side giant announced it would be launching a separate company, Fidelity Digital Asset Services, at the time stating that it would be offering custody and trading services for bitcoin and ether, the cryptocurrency that powers the ethereum blockchain.
-            
-        “I think there is demand for the next four or five in rank of market cap order. So we will be looking at that,” he said.&lt;/p&gt;   
-        &lt;p&gt;essop explained that Fidelity is taking a customer-driven approach for now and that its 13,000-plus institutional clients are interested in bitcoin and ether because they make up a large part of the current market cap.
-            
-        “I think when it comes to security tokens or tokens that are likely to be deemed securities, we are waiting for that space to develop,” he explained, going on to say:
-                
-        “We have had some interest but we don’t think it’s a groundswell of interest, so our focus is really on the top, call it five-seven, before we start building capabilities for the tail. But I think it will come.”&lt;/p&gt;
-        
-        &lt;p&gt;Fidelity has spent four to five years of R&amp;D in the space and has a long view of the crypto asset class and the underlying technology’s potential, which Jessop compared to the exponential sweep of the internet.
-            
-        He acknowledged that digital assets have not had a great run this year, pointing out that, a year prior, the run-up in prices saw Fidelity’s charitable crypto donations vehicle garner some $70 million in contributions.
-                
-        “It was a great story and a great source of donations,” Jessop added.&lt;/p&gt;
-        
-        &lt;p&gt;Fidelity image via Shutterstock&lt;/p&gt;
-        
-        
-    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. Bitcoin Mining Giant Holds Flash Sale to Celebrate Price ‘Bottom’ Fidelity Investments is looking to expand its institutional crypto asset platform to include trading services for the top five to seven cryptocurrencies by market capitalization. Revealed today at the Block FS conference in New York, the news came in response to a question from CoinDesk posed to Tom Jessop, head of Fidelity Digital Assets, on what other cryptocurrencies may be added to the platform, to be launched next year. Last month, the buy-side giant announced it would be launching a separate company, Fidelity Digital Asset Services, at the time stating that it would be offering custody and trading services for bitcoin and ether, the cryptocurrency that powers the ethereum blockchain. “I think there is demand for the next four or five in rank of market cap order. So we will be looking at that,” he said. essop explained that Fidelity is taking a customer-driven approach for now and that its 13,000-plus institutional clients are interested in bitcoin and ether because they make up a large part of the current market cap. “I think when it comes to security tokens or tokens that are likely to be deemed securities, we are waiting for that space to develop,” he explained, going on to say: “We have had some interest but we don’t think it’s a groundswell of interest, so our focus is really on the top, call it five-seven, before we start building capabilities for the tail. But I think it will come.” Fidelity has spent four to five years of R&amp;D in the space and has a long view of the crypto asset class and the underlying technology’s potential, which Jessop compared to the exponential sweep of the internet. He acknowledged that digital assets have not had a great run this year, pointing out that, a year prior, the run-up in prices saw Fidelity’s charitable crypto donations vehicle garner some $70 million in contributions. “It was a great story and a great source of donations,” Jessop added. Fidelity image via Shutterstock</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/miners.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/13/Malware.html" rel="alternate" type="text/html" title="post" /><published>2018-11-13T11:47:39+02:00</published><updated>2018-11-13T11:47:39+02:00</updated><id>/hadron-project/2018/11/13/Malware</id><content type="html" xml:base="/hadron-project/2018/11/13/Malware.html">&lt;section class=&quot;news&quot;&gt;
+            Revealed today at the Block FS conference in New York, the news came in response to a question from CoinDesk posed to Tom
+            Jessop, head of Fidelity Digital Assets, on what other cryptocurrencies may be added to the platform, to
+            be launched next year.&lt;/p&gt;
+
+            &lt;p&gt;Last month, the buy-side giant announced it would be launching a separate company, Fidelity Digital Asset Services,
+                at the time stating that it would be offering custody and trading services for bitcoin and ether, the cryptocurrency
+                that powers the ethereum blockchain. “I think there is demand for the next four or five in rank of market
+                cap order. So we will be looking at that,” he said.&lt;/p&gt;
+            &lt;p&gt;essop explained that Fidelity is taking a customer-driven approach for now and that its 13,000-plus institutional
+                clients are interested in bitcoin and ether because they make up a large part of the current market cap.
+                “I think when it comes to security tokens or tokens that are likely to be deemed securities, we are waiting
+                for that space to develop,” he explained, going on to say: “We have had some interest but we don’t think
+                it’s a groundswell of interest, so our focus is really on the top, call it five-seven, before we start building
+                capabilities for the tail. But I think it will come.”&lt;/p&gt;
+
+            &lt;p&gt;Fidelity has spent four to five years of R&amp;D in the space and has a long view of the crypto asset class and the
+                underlying technology’s potential, which Jessop compared to the exponential sweep of the internet. He acknowledged
+                that digital assets have not had a great run this year, pointing out that, a year prior, the run-up in prices
+                saw Fidelity’s charitable crypto donations vehicle garner some $70 million in contributions. “It was a great
+                story and a great source of donations,” Jessop added.&lt;/p&gt;
+
+            &lt;p&gt;Fidelity image via Shutterstock&lt;/p&gt;
+
+
+    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. Bitcoin Mining Giant Holds Flash Sale to Celebrate Price ‘Bottom’ Fidelity Investments is looking to expand its institutional crypto asset platform to include trading services for the top five to seven cryptocurrencies by market capitalization. Revealed today at the Block FS conference in New York, the news came in response to a question from CoinDesk posed to Tom Jessop, head of Fidelity Digital Assets, on what other cryptocurrencies may be added to the platform, to be launched next year.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/miners.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/13/Malware.html" rel="alternate" type="text/html" title="post" /><published>2018-11-13T11:47:39+02:00</published><updated>2018-11-13T11:47:39+02:00</updated><id>/hadron-project/2018/11/13/Malware</id><content type="html" xml:base="/hadron-project/2018/11/13/Malware.html">&lt;section class=&quot;news&quot;&gt;
     &lt;section class=&quot;header-news&quot;&gt;
-       &lt;article class=&quot;news-intro&quot;&gt;
-          &lt;h2&gt;Hadron News&lt;/h2&gt;
-          &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
-       &lt;/article&gt;
+        &lt;article class=&quot;news-intro&quot;&gt;
+            &lt;h2&gt;Hadron News&lt;/h2&gt;
+            &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
+        &lt;/article&gt;
     &lt;/section&gt;
+&lt;/section&gt;
     &lt;section class=&quot;news-content&quot;&gt;
         &lt;img src=&quot;/hadron-project/images/news/virus-3d.jpg&quot; alt=&quot;news&quot;&gt;
         &lt;h2&gt;New Crypto Mining Malware Seen to ‘Evolve,’ Say Researchers&lt;/h2&gt;
-        &lt;p&gt;Researchers at Israel-based cybersecurity firm Check Point Software Technologies say that a relatively new form of crypto mining malware, dubbed KingMiner, is “evolving.”
-
-        In a research note on Thursday, the firm’s Ido Solomon and Adi Ikan said that KingMiner, a monero mining malware that first appeared about six months ago, is changing through time to avoid detection – even replacing older versions of itself that it encounters on host machines.
-            
+        &lt;p&gt;Researchers at Israel-based cybersecurity firm Check Point Software Technologies say that a relatively new form of
+            crypto mining malware, dubbed KingMiner, is “evolving.” In a research note on Thursday, the firm’s Ido Solomon
+            and Adi Ikan said that KingMiner, a monero mining malware that first appeared about six months ago, is changing
+            through time to avoid detection – even replacing older versions of itself that it encounters on host machines.
             The researchers said:
-        &lt;p&gt;
-         “The malware continuously adds new features and bypass methods to avoid emulation. Mainly, it manipulates the needed files and creates a dependency which is critical during emulation.”.&lt;/p&gt;
             
-         &lt;p&gt;As a result of these tactics, the malware is also being detected by security systems at “significantly” reduced rates.
+                “The malware continuously adds new features and bypass methods to avoid emulation. Mainly, it manipulates the needed files
+                and creates a dependency which is critical during emulation.”.&lt;/p&gt;
 
-        The malware usually targets Microsoft servers (predominantly IIS\SQL) and while configured to harness 75 percent of the victim machine’s CPU capacity for mining, it actually uses up the full 100 percent.
-            
-        To preserve its secrecy, KingMiner is also seen to use a private mining pool to avoid detection, which also has its API switched off.&lt;/p&gt;   
-        &lt;p&gt;“We have not yet determined which domains are used, as this is also private. However, we can see that the attack is currently widely spread, from Mexico to India, Norway and Israel,” the researchers said.
+            &lt;p&gt;As a result of these tactics, the malware is also being detected by security systems at “significantly” reduced
+                rates. The malware usually targets Microsoft servers (predominantly IIS\SQL) and while configured to harness
+                75 percent of the victim machine’s CPU capacity for mining, it actually uses up the full 100 percent. To
+                preserve its secrecy, KingMiner is also seen to use a private mining pool to avoid detection, which also
+                has its API switched off.&lt;/p&gt;
+            &lt;p&gt;“We have not yet determined which domains are used, as this is also private. However, we can see that the attack
+                is currently widely spread, from Mexico to India, Norway and Israel,” the researchers said. The continual
+                changes allow the malware to be more successful, they continued, predicting that such evasion techniques
+                will continue to evolve during 2019 and become more common across crypto-mining malware variants.&lt;/p&gt;
 
-        The continual changes allow the malware to be more successful, they continued, predicting that such evasion techniques will continue to evolve during 2019 and become more common across crypto-mining malware variants.&lt;/p&gt;
-        
-        
-        
-        &lt;p&gt;Virus illustration via Shutterstock &lt;/p&gt;
-        
-        
-    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. New Crypto Mining Malware Seen to ‘Evolve,’ Say Researchers Researchers at Israel-based cybersecurity firm Check Point Software Technologies say that a relatively new form of crypto mining malware, dubbed KingMiner, is “evolving.”</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/virus-3d.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/11/SEC.html" rel="alternate" type="text/html" title="post" /><published>2018-11-11T11:47:39+02:00</published><updated>2018-11-11T11:47:39+02:00</updated><id>/hadron-project/2018/11/11/SEC</id><content type="html" xml:base="/hadron-project/2018/11/11/SEC.html">&lt;section class=&quot;news&quot;&gt;
+
+
+            &lt;p&gt;Virus illustration via Shutterstock &lt;/p&gt;
+
+
+    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. New Crypto Mining Malware Seen to ‘Evolve,’ Say Researchers Researchers at Israel-based cybersecurity firm Check Point Software Technologies say that a relatively new form of crypto mining malware, dubbed KingMiner, is “evolving.” In a research note on Thursday, the firm’s Ido Solomon and Adi Ikan said that KingMiner, a monero mining malware that first appeared about six months ago, is changing through time to avoid detection – even replacing older versions of itself that it encounters on host machines. The researchers said: “The malware continuously adds new features and bypass methods to avoid emulation. Mainly, it manipulates the needed files and creates a dependency which is critical during emulation.”.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/virus-3d.jpg" /></entry><entry><title type="html">post</title><link href="/hadron-project/2018/11/11/SEC.html" rel="alternate" type="text/html" title="post" /><published>2018-11-11T11:47:39+02:00</published><updated>2018-11-11T11:47:39+02:00</updated><id>/hadron-project/2018/11/11/SEC</id><content type="html" xml:base="/hadron-project/2018/11/11/SEC.html">&lt;section class=&quot;news&quot;&gt;
     &lt;section class=&quot;header-news&quot;&gt;
-       &lt;article class=&quot;news-intro&quot;&gt;
-          &lt;h2&gt;Hadron News&lt;/h2&gt;
-          &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
-       &lt;/article&gt;
+        &lt;article class=&quot;news-intro&quot;&gt;
+            &lt;h2&gt;Hadron News&lt;/h2&gt;
+            &lt;p&gt;A public supercomputer designed to host the next generation of software and services.&lt;/p&gt;
+        &lt;/article&gt;
     &lt;/section&gt;
+&lt;/section&gt;
     &lt;section class=&quot;news-content&quot;&gt;
         &lt;img src=&quot;/hadron-project/images/news/SEC-860x430.jpg&quot; alt=&quot;news&quot;&gt;
         &lt;h2&gt;SEC Fines Floyd Mayweather, DJ Khaled for ICO Promotions&lt;/h2&gt;
-        &lt;p&gt;The U.S. Securities and Exchange Commission (SEC) has settled charges with professional boxer Floyd Mayweather Jr. and music producer Khaled Khaled – better known as DJ Khaled – for not disclosing that they were paid to promote initial coin offerings (ICOs).
+        &lt;p&gt;The U.S. Securities and Exchange Commission (SEC) has settled charges with professional boxer Floyd Mayweather Jr.
+            and music producer Khaled Khaled – better known as DJ Khaled – for not disclosing that they were paid to promote
+            initial coin offerings (ICOs). Announced Thursday, the regulator said that Mayweather received $100,000 from
+            Centra Tech, as well as another $200,000 from Stox and Hubii Network. Khaled was paid $50,000 to promote Centra
+            Tech, according to the agency. The co-founders of Centra Tech were indicted by a grand jury earlier this year
+            on charges of fraud and conspiracy.
+            In a statement Thursday, SEC Enforcement Division co-director Stephanie Avakian said that “with no disclosure
+                about the payments, Mayweather and Khaled’s ICO promotions may have appeared to be unbiased, rather than
+                paid endorsements.” Neither celebrity admitted to or denied the charges in their settlements. Mayweather
+                will pay $300,000 in disgorgement, $300,000 in penalties and $14,775 in prejudgment interest. Khaled will
+                pay $50,000 in disgorgement, $100,000 in penalties and $2,725 in prejudgment interest.&lt;/p&gt;
 
-        Announced Thursday, the regulator said that Mayweather received $100,000 from Centra Tech, as well as another $200,000 from Stox and Hubii Network.
-            
-        Khaled was paid $50,000 to promote Centra Tech, according to the agency.
-            
-        The co-founders of Centra Tech were indicted by a grand jury earlier this year on charges of fraud and conspiracy.
-        &lt;p&gt;In a statement Thursday, SEC Enforcement Division co-director Stephanie Avakian said that “with no disclosure about the payments, Mayweather and Khaled’s ICO promotions may have appeared to be unbiased, rather than paid endorsements.”
+            &lt;p&gt;Further, the two are banned from promoting “any securities, digital or otherwise,” for the next few years; Mayweather
+                has agreed to a three-year ban, while Khaled’s ban will last for a period of two years. The SEC added that
+                Mayweather will continue to cooperate with its investigation, which is ongoing.&lt;/p&gt;
+            &lt;p&gt;The move comes more than a year after the agency first warned celebrities that it may be against the law to promote
+                investment products if they “do not disclose the nature, source and amount of compensation paid … in exchange
+                for the endorsement.”&lt;/p&gt;
 
-        Neither celebrity admitted to or denied the charges in their settlements. Mayweather will pay $300,000 in disgorgement, $300,000 in penalties and $14,775 in prejudgment interest. Khaled will pay $50,000 in disgorgement, $100,000 in penalties and $2,725 in prejudgment interest.&lt;/p&gt;
-            
-       &lt;p&gt;Further, the two are banned from promoting “any securities, digital or otherwise,” for the next few years; Mayweather has agreed to a three-year ban, while Khaled’s ban will last for a period of two years.
 
-      The SEC added that Mayweather will continue to cooperate with its investigation, which is ongoing.&lt;/p&gt;   
-      &lt;p&gt;The move comes more than a year after the agency first warned celebrities that it may be against the law to promote investment products if they “do not disclose the nature, source and amount of compensation paid … in exchange for the endorsement.”&lt;/p&gt;
-      
-        
-        &lt;p&gt;SEC emblem image via Shutterstock&lt;/p&gt;
-    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. SEC Fines Floyd Mayweather, DJ Khaled for ICO Promotions The U.S. Securities and Exchange Commission (SEC) has settled charges with professional boxer Floyd Mayweather Jr. and music producer Khaled Khaled – better known as DJ Khaled – for not disclosing that they were paid to promote initial coin offerings (ICOs).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/SEC-860x430.jpg" /></entry></feed>
+            &lt;p&gt;SEC emblem image via Shutterstock&lt;/p&gt;
+    &lt;/section&gt;</content><author><name></name></author><summary type="html">Hadron News A public supercomputer designed to host the next generation of software and services. SEC Fines Floyd Mayweather, DJ Khaled for ICO Promotions The U.S. Securities and Exchange Commission (SEC) has settled charges with professional boxer Floyd Mayweather Jr. and music producer Khaled Khaled – better known as DJ Khaled – for not disclosing that they were paid to promote initial coin offerings (ICOs). Announced Thursday, the regulator said that Mayweather received $100,000 from Centra Tech, as well as another $200,000 from Stox and Hubii Network. Khaled was paid $50,000 to promote Centra Tech, according to the agency. The co-founders of Centra Tech were indicted by a grand jury earlier this year on charges of fraud and conspiracy. In a statement Thursday, SEC Enforcement Division co-director Stephanie Avakian said that “with no disclosure about the payments, Mayweather and Khaled’s ICO promotions may have appeared to be unbiased, rather than paid endorsements.” Neither celebrity admitted to or denied the charges in their settlements. Mayweather will pay $300,000 in disgorgement, $300,000 in penalties and $14,775 in prejudgment interest. Khaled will pay $50,000 in disgorgement, $100,000 in penalties and $2,725 in prejudgment interest.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hadron-project/images/news/SEC-860x430.jpg" /></entry></feed>

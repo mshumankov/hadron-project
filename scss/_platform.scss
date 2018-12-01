@@ -1,123 +1,113 @@
-
-  section.header-platform {
-      background: $gradientPlatformRgba, url("../images/backgrounds/background8.jpg");
-      background-size: cover;
-      height: 36rem;
-      background-position: center;
-      display: flex;
-      align-items: center;
+section.header-platform {
+  background: $gradientPlatformRgba,url("../images/backgrounds/background8.jpg");
+  background-size: cover;
+  height: 36rem;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
+article.platform-intro {
+  width: 100%;
+  height: 20rem;
+  padding: 2rem 4rem;
+  @include mq('tablet-middle') {
+      background: $gradientArticle;
+      width: 70%;
+      animation: slideRight 0.5s 1 cubic-bezier(.49,.01,0,.91) both;
+      animation-delay: 0.40s;
   }
-  article.platform-intro {
+  @include mq('tablet-wide') {
+      width: 50%;
+  }
+  h2 {
+      font-family: 'Maven_Pro','Ubuntu';
+      font-size: 2.4em;
+      letter-spacing: 2px;
+      color: #FFF;
+      @include mq('phablet') {
+          font-size: 3em;
+      }
+  }
+  p {
+      font-size: 1.4em;
+      color: #FFF;
+  }
+}
+.left-text {
+  display: flex;
+  flex-direction: column;
+  @include mq('tablet-wide') {
+      flex-direction: row;
+  }
+  article {
       width: 100%;
-      height: 20rem;
-      padding: 2rem 4rem;
-      @include mq('tablet-middle') {
-         background: $gradientArticle;
-         width: 70%;
-         animation: slideRight 0.5s 1 cubic-bezier(.49,.01,0,.91) both;
-         animation-delay: 0.40s;
-      }
+      order: 2;
+      padding: 4rem;
       @include mq('tablet-wide') {
-         width: 50%;
-       }
-      h2 {
-         font-family: 'Maven_Pro', 'Ubuntu';
-         font-size: 2.4em;
-         letter-spacing: 2px;
-         color: #FFF;
-         @include mq('phablet') {
-            font-size: 3em;
-         }
-
-         
-      }
-      p {
-         font-size: 1.4em;
-         color: #FFF;
+          width: 50%;
       }
   }
-   
-  .left-text {
-    display: flex;
-      flex-direction: column;
+  div {
+      height: 32rem;
+      width: 100%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
       @include mq('tablet-wide') {
-        flex-direction: row;
-     }
-      
-      article {
-         width: 100%;
-         order: 2;
-         padding: 4rem;
-         @include mq('tablet-wide') {
-            width: 50%;
-         }
+          width: 50%;
       }
-      div {
-         height: 32rem;
-         width:100%;
-         background-size: cover;
-         background-repeat: no-repeat;
-         background-position: center;
-         @include mq('tablet-wide') {
-            width: 50%;
-         }
-      }
-    }
-    .right-text {
-      display: flex;
-        flex-direction: column;
-        @include mq('tablet-wide') {
-          flex-direction: row;
-       }
-        
-        article {
-           width: 100%;
-           order: 2;
-           padding: 4rem;
-           @include mq('tablet-wide') {
-              width: 50%;
-              order: 1;
-           }
-        }
-        div {
+  }
+}
+.right-text {
+  display: flex;
+  flex-direction: column;
+  @include mq('tablet-wide') {
+      flex-direction: row;
+  }
+  article {
+      width: 100%;
+      order: 2;
+      padding: 4rem;
+      @include mq('tablet-wide') {
+          width: 50%;
           order: 1;
-           height: 32rem;
-           width:100%;
-           background-size: cover;
-           background-repeat: no-repeat;
-           background-position: center;
-           @include mq('tablet-wide') {
-              width: 50%;
-              order: 2;
-           }
-        }
-    }
-  section.platform-info {
-      div {
-         
-         background-image: $gradientHomeRgba ,url(../images/img/img2.jpg);
       }
-    }
-  section.fast {
-        
-        div {
-           background-image: $gradientDevelopersRgba ,url(../images/img/background9.jpg);
-        } 
-    }
-    section.secure {
-          div {
-             background-image:  $gradientPlatformRgba,url(../images/backgrounds/background10.jpg);
-             }
-          }
-        section.how-works {
-          div {
-             background-image: $gradientCareersRgba ,url(../images/backgrounds/background11.jpg);
-          }
-        }
-        section.cryptocurrency {
-          div {
-             background-image: $gradientAboutRgba ,url(../images/backgrounds/background12.jpg);
-        }
+  }
+  div {
+      order: 1;
+      height: 32rem;
+      width: 100%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      @include mq('tablet-wide') {
+          width: 50%;
+          order: 2;
       }
-        
-      
+  }
+}
+section.platform-info {
+  div {
+      background-image: $gradientHomeRgba ,url(../images/img/img2.jpg);
+  }
+}
+section.fast {
+  div {
+      background-image: $gradientDevelopersRgba ,url(../images/img/background9.jpg);
+  }
+}
+section.secure {
+  div {
+      background-image: $gradientPlatformRgba,url(../images/backgrounds/background10.jpg);
+  }
+}
+section.how-works {
+  div {
+      background-image: $gradientCareersRgba ,url(../images/backgrounds/background11.jpg);
+  }
+}
+section.cryptocurrency {
+  div {
+      background-image: $gradientAboutRgba ,url(../images/backgrounds/background12.jpg);
+  }
+}  

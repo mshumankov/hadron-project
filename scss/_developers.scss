@@ -1,37 +1,37 @@
 section.header-developers {
-   background: $gradientDevelopersRgba, url("../images/backgrounds/background15.jpg");
-   background-size: contain, cover;
-   background-position: bottom;
-   height: 36rem;
-   display: flex;
-   align-items: center;
+  background: $gradientDevelopersRgba,url("../images/backgrounds/background15.jpg");
+  background-size: contain,cover;
+  background-position: bottom;
+  height: 36rem;
+  display: flex;
+  align-items: center;
 }
 article.developers-intro {
-   width: 100%;
-   height: 20rem;
-   padding: 2rem 4rem;
-   @include mq('tablet-middle') {
+  width: 100%;
+  height: 20rem;
+  padding: 2rem 4rem;
+  @include mq('tablet-middle') {
       background: $gradientArticle;
       width: 70%;
       animation: slideRight 0.5s 1 cubic-bezier(.49,.01,0,.91) both;
       animation-delay: 0.40s;
-   }
-   @include mq('tablet-wide') {
+  }
+  @include mq('tablet-wide') {
       width: 50%;
-    }
-   h2 {
-      font-family: 'Maven_Pro', 'Ubuntu';
+  }
+  h2 {
+      font-family: 'Maven_Pro','Ubuntu';
       font-size: 2.4em;
       letter-spacing: 2px;
       color: #FFF;
       @include mq('phablet') {
-         font-size: 3em;
-      } 
-   }
-   p {
+          font-size: 3em;
+      }
+  }
+  p {
       font-size: 1.4em;
       color: #FFF;
-   }
+  }
 }
 section.dev-info {
   background: #F83600;
@@ -39,8 +39,8 @@ section.dev-info {
   text-align: center;
   padding: 3rem;
   @include mq('tablet-small') {
-    padding: 3rem 8rem;
- }
+      padding: 3rem 8rem;
+  }
 }
 section.developer-advantages {
   display: flex;
@@ -48,56 +48,53 @@ section.developer-advantages {
   align-items: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  background: rgb(230, 230, 230);
-
-  article{
-   width: 17rem;
-   height: 15rem;
-   text-align: center;
-   padding: 2rem;
+  background: rgb(230,230,230);
+  article {
+      width: 17rem;
+      height: 15rem;
+      text-align: center;
+      padding: 2rem;
   }
-  
-  h4{
-   padding-top: 1em;
-   &:before {
-    display: block;
-  font-size: 3rem;
-  border-radius: 50%;
-  background: $gradientDevelopers;
-  color: #fff;
-  padding: 1rem;
-  width: 5.5rem;
-  margin: 0 auto 2rem;
-   }
+  h4 {
+      padding-top: 1em;
+      &:before {
+          display: block;
+          font-size: 3rem;
+          border-radius: 50%;
+          background: $gradientDevelopers;
+          color: #fff;
+          padding: 1rem;
+          width: 5.5rem;
+          margin: 0 auto 2rem;
+      }
   }
 }
 section.build-developers {
   background-image: url(../images/backgrounds/background16.jpg);
- background-repeat: no-repeat;
- background-size: cover;
- background-attachment: fixed;
- height: 100vh;
- display: flex;
- justify-content: center;
- align-items: center;
- article {
-   width: 45rem;
-   max-height: 100vh;
-   text-align: center;
-   color: #FFF;
-   padding: 3rem;
-   background: linear-gradient(to right,  rgba(73, 73, 73, 0.7), rgba(73, 73, 73, 0.7));
-}
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  article {
+      width: 45rem;
+      max-height: 100vh;
+      text-align: center;
+      color: #FFF;
+      padding: 3rem;
+      background: linear-gradient(to right,rgba(73,73,73,0.7),rgba(73,73,73,0.7));
+  }
 }
 section.form-developers {
   display: flex;
   align-items: center;
   background: #43CEA2;
-  
   flex-direction: column;
   @include mq('tablet-wide') {
-    flex-direction: row;
-    height: 100vh;
+      flex-direction: row;
+      height: 100vh;
   }
 }
 article.form-info {
@@ -105,80 +102,30 @@ article.form-info {
   width: 100%;
   padding: 4rem;
   @include mq('tablet-wide') {
-    width: 40%;
+      width: 40%;
   }
   h2 {
-    font-size: 2.5rem;
+      font-size: 2.5rem;
   }
 }
 div.form-wrapper {
   @include mq('tablet-wide') {
-    width: 60%;
+      width: 60%;
   }
 }
 div.form-conteiner {
-  
   margin: 3rem;
-  background: #FFF; 
+  background: #FFF;
   border-radius: 0.8rem;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 70vh;
   @include mq('tablet-wide') {
-    height: 70vh;
+      height: 70vh;
   }
-  /* form {
-    padding: 2rem;
-    input[type='email'], input[type='password'] {
-      width: 100%;
-      display: block;
-      border: none;
-      border-bottom: 3px solid #CCC;
-      padding: 0.5em 0;
-      margin-bottom: 0.7rem;
-      background: transparent;
-      outline: none;
-      transition: border 0.2s ease-in;
-      @include mq('tablet-wide') {
-        margin-bottom: 0;
-      }
-      &::placeholder {
-        color: rgb(163, 163, 163);
-      }
-      
-   }
-   input[type='email']:focus , input[type='password']:focus {
-    border-bottom: 3px solid #43CEA2;
-  } */
-
-   p {
-     margin-top: 1.5rem;
-     font-size: 0.9rem;
-   }
-   /* input[type='submit'] {
-    text-transform: uppercase;
-    padding: 0.4rem 1.3rem;
-    border-radius: 30px;
-    cursor: pointer;
-    outline: none;
-    text-decoration: none;
-    font-size: 0.8rem;
-    border: 3px solid #43CEA2;
-    background: #43CEA2;
-    color: #FFF;
-    font-weight: bold;
-    transition: border 0.2s ease-in, color 0.2s ease-in, background 0.2s ease-in;
-    &:hover {
-      border: 3px solid #43CEA2;
-      background: #FFF;
-      color: #43CEA2;
-    }
-    &:active {
-      border: 3px solid #43CEA2;
-      background: #FFF;
-      color: #43CEA2;
-    }
-   } */
-  /* } */
+  p {
+      margin-top: 1.5rem;
+      font-size: 0.9rem;
+  }
 }
