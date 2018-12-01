@@ -11,7 +11,7 @@ article.careers-intro {
    height: 20rem;
    padding: 2rem 4rem;
    @include mq('tablet-middle') {
-      background: linear-gradient(to right,  rgba(48,67,82, 0.2), rgba(48,67,82, 0.2));
+      background: $gradientArticle;
       width: 70%;
       animation: slideRight 0.5s 1 cubic-bezier(.49,.01,0,.91) both;
       animation-delay: 0.40s;
@@ -92,10 +92,10 @@ section.overview {
      padding: 3rem 0 1rem;
    }
    article{
-    width: 18rem;
-    height: 25rem;
+    width: 15rem;
+    height: 23rem;
     text-align: center;
-    padding: 2rem;
+    margin: 0 2rem 2rem 2rem;
    }
    
    h4{

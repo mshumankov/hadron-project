@@ -11,7 +11,7 @@ article.developers-intro {
    height: 20rem;
    padding: 2rem 4rem;
    @include mq('tablet-middle') {
-      background: linear-gradient(to right,  rgba(48,67,82, 0.2), rgba(48,67,82, 0.2));
+      background: $gradientArticle;
       width: 70%;
       animation: slideRight 0.5s 1 cubic-bezier(.49,.01,0,.91) both;
       animation-delay: 0.40s;
