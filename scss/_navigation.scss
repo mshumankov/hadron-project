@@ -166,7 +166,7 @@ body {
   .navigation {
       display: flex;
       z-index: 1000;
-      animation: navitemin 800ms1 cubic-bezier(0.55,0,0.1,1) forwards;
+      animation: navitemin 800ms 1 cubic-bezier(0.55,0,0.1,1) forwards;
   }
   .nav-toggle {
       z-index: 1010;
