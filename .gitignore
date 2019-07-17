@@ -3,4 +3,4 @@ _site
 .jekyll-metadata
 package.json
 .vccode
-node_modules/
+/node_modules
